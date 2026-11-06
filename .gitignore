@@ -1,0 +1,4 @@
+*.csv
+.venv/
+Need4DataF26/
+.ipynb_checkpoints/
